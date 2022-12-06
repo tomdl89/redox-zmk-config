@@ -22,7 +22,7 @@
 // | SHIFT |  Z  |  X  |   C   |  V  |  B  | PG_UP | PG_DOWN | --- | HOME | END   |  N    |  M    |  ,    |  .   | /  | SHFT(RET) |
 // | CRTL  | ALT | GUI | LOWER |    GUI    | LOWER | SPACE   | --- | DEL  | SPACE |     RAISE     | LEFT  | DOWN | UP |   RIGHT   |
             bindings = <
-   &kp LCTRL  &kp N1   &kp N2   &kp N3 &kp N4   &kp N5                                        &kp N6    &kp N7 &kp N8    &kp N9   &kp N0   &mo 1
+   &kp LCTRL  &kp EXCL   &kp DQT   &kp N3 &kp DLLR   &kp PRCNT                               &kp CARET  &kp AMPS &kp STAR  &kp LPAR   &kp RPAR   &mo 1
    &kp TAB   &kp Q    &kp W    &kp D  &kp F    &kp K  &kp LPAR                     &kp RPAR  &kp J     &kp U  &kp R     &kp L    &kp SEMI &kp MINUS
    &kp ESC &kp A    &kp S    &kp E  &kp T    &kp G  &kp LBKT                     &kp RBKT  &kp Y     &kp N  &kp I     &kp O    &kp H &kp SQT
    &kp LSHFT &kp Z    &kp X    &kp C  &kp V    &kp B  &kp PG_UP &kp PG_DN &kp HOME &kp END   &kp P     &kp M  &kp COMMA &kp DOT  &kp FSLH &mt RSHFT RET
